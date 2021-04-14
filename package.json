@@ -1,0 +1,22 @@
+{
+  "name": "weatherwebapp",
+  "version": "1.0.0",
+  "description": "weather website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristopherAreche/WeatherWebsite.git"
+  },
+  "keywords": [
+    "weatherWebsite"
+  ],
+  "author": "Cristopher Areche <cristopherareche764@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristopherAreche/WeatherWebsite/issues"
+  },
+  "homepage": "https://github.com/CristopherAreche/WeatherWebsite#readme"
+}
